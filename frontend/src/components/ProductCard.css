@@ -1,0 +1,19 @@
+.dark body{
+    background-color: black;
+}
+
+
+
+.card .dark{
+    background-color: grey;
+    color: black;
+}
+
+@media (max-width: 800px) {
+
+    .card{
+        
+        display: flex;
+        align-items: center;
+    }
+}

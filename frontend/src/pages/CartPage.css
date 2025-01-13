@@ -1,0 +1,27 @@
+.containe.dark{
+    background-color: #18191A;
+}
+.cartempty.dark {
+    background-color: #18191A;
+}
+.containe.dark .cartbox{
+    background-color: gray;
+    
+}
+
+.containe.dark .checkoutbox{
+    background-color: grey;
+}
+.containe{
+    height: auto;
+    padding-bottom: 50px;
+}
+.containe .cart-item{
+    display: block;
+}
+
+@media (max-width:540px) {
+    .containe{
+        padding-bottom: 50px;
+    }
+}

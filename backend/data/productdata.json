@@ -1,0 +1,88 @@
+[{
+    "name":"Oppo Enco Buds 2",
+    "price":1599,
+    "description":"TWS with noice cancellation and better base Quality",
+    "ratings":"4",
+    "images":[{
+        "image":"/images/products/1.jpg"
+    },{
+          "image": "/images/products/2.jpg"
+        }
+    ],
+    "category":"Earphone",
+    "stock":8,
+    "seller":"oppo store"
+},
+{
+    "name":"Lenovo LOQ RTX 2050 ",
+    "price":59000,
+    "description":"Lenovo's Latest Laptop with HX processor",
+    "ratings":"4.5",
+    "images":[{
+        "image":"/images/products/2.jpg"
+    }],
+    "category":"Laptoop",
+    "stock":2,
+    "seller":"Lenovo store"
+},
+{
+    "name":" FireBolt SuperNova",
+    "price":2809,
+    "description":"Watch is Inpired by apple watch",
+    "ratings":"3.0",
+    "images":[{
+        "image":"/images/products/3.jpg"
+    }],
+    "category":"smart watch",
+    "stock":5,
+    "seller":"firebolt store"
+},
+{
+    "name":"Thomson TV 55inch 4K UltraHD",
+    "price":28000,
+    "description":"Thomson brand since 1996. this is best 55inch TV in this price segment",
+    "ratings":"5.0",
+    "images":[{
+        "image":"/images/products/4.jpg"
+    }],
+    "category":"smart TV",
+    "stock":3,
+    "seller":"Flipkart"
+},
+{
+    "name":"POCO X2",
+    "price":18000,
+    "description":"64MP camera , better batery backup , best flagship phone",
+    "ratings":"4.0",
+    "images":[{
+        "image":"/images/products/5.jpg"
+    }],
+    "category":"smart phone",
+    "stock":4,
+    "seller":"Flipkart"
+},
+{
+    "name":"Boat Rockers 255+ neckband",
+    "price":899,
+    "description":"Awosome Bass with clear call quality",
+    "ratings":"3.5",
+    "images":[{
+        "image":"/images/products/6.jpg"
+    }],
+    "category":"Earphone",
+    "stock":6,
+    "seller":"Flipkart"
+},
+{
+    "name":"Walkaroo Slipper",
+    "price":560,
+    "description":"Inspired from Crocks",
+    "ratings":"3.5",
+    "images":[{
+        "image":"/images/products/7.jpg"
+    }],
+    "category":"Slipper",
+    "stock":10,
+    "seller":"walkaroo store"
+}
+]
